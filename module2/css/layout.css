@@ -42,13 +42,13 @@ h2{
 .item{
 	background-color: gray;
 	float: left;
-	border: 3px solid black;
+	border: 1px solid black;
 }
 
 .item-title {
 	width: 150px;
-	border-bottom: 3px solid black;
-	border-left: 3px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
 	float: right;
 }
 
