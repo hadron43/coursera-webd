@@ -1,0 +1,69 @@
+*{
+    box-sizing: border-box;
+    /* outline: 1px dashed black; */
+}
+
+.clear-both{
+    clear: both;
+}
+
+body{
+    background: rgb(222, 206, 230) !important;
+}
+
+/*Styling for Header Starts*/
+header{
+    background: rgb(28, 2, 63);
+    color: rgb(179, 103, 214);
+    font-family: cursive;
+}
+
+header #navbar-main{
+    background-color: rgb(206, 149, 233);
+    color: rgb(28, 2, 63);
+}
+
+div.navbar-brand{
+    font-size: 2.8em;
+    margin: 15px;
+}
+
+ul.nav.navbar-nav.visible-xs{
+    padding: 15px 0px;
+    font-size: 1.8em;
+    text-align: center;
+}
+
+header button{
+    border: 1px solid rgb(206, 149, 233) !important;
+    margin: 25px !important;
+}
+
+header span{
+    background-color: rgb(206, 149, 233);
+}
+
+/*Styling for Header Ends*/
+
+/*Styling for Main Contenet Starts*/
+
+#content-heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+section#chicken{
+    background-color: rgb(168, 160, 172);
+}
+
+section#chicken h3{
+    text-align: center;
+    font-family: cursive;
+    padding-top: 10px;
+}
+
+section#chicken p{
+    text-align: justify;
+    padding: 10px;
+}
+
+/*Styling for Main Contenet Ends*/
